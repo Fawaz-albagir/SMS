@@ -1,2 +1,0 @@
-1c4d3fd6bed9217f4d95617f383c70bbb6376dabce34e1268b75e21c29aff8c9  SMS_Consolidated_Final_Source.zip
-83c304d99a024b1755a6cd4b09ca78dacdff18dfb25519f730eb7b30bbcee64d  BUILD_AND_TEST_REPORT.md
